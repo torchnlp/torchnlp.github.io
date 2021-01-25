@@ -1,6 +1,6 @@
 ## Welcome to TorchNLP
 
-We provide instruction to become proficient in NLP with Deep Learning.
+We are a group of researchers that are sharing instructions to become proficient in NLP with Deep Learning, as we learn them ourselves.
 - [PyTorch Basics](pytorch_basics.md) introduces you to PyTorch
 
 
