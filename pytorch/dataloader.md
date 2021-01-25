@@ -1,0 +1,2 @@
+Once you have obtained the [dataset](pytorch/dataset.md), you will need to batch (e.g., into batches of size 1024 each) and shuffle the data. This is done by the DataLoader as follows:
+`dataloader = DataLoader(dataset)`
